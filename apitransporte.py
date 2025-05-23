@@ -1,3 +1,4 @@
+# Comentario en primera línea para vídeo
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from database import get_db_connection
